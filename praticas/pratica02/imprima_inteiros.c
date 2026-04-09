@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    
     int numero_inteiro;
     numero_inteiro = 10;
     numero_inteiro = -5;
